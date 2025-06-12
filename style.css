@@ -1,0 +1,259 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+video{
+    width: 100%;
+}
+
+
+header{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+nav{
+    display: flex;
+    gap: 40px;
+}
+
+.man{
+    position: absolute;
+    top: 500px;
+    left: 200px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+h1{
+    color: white;
+    font-size: 42px;
+    margin-top: 20px;
+}
+
+h4{
+    color: white;
+    font-size: 20px;
+}
+
+button{
+    width: 130px;
+    height: 50px;
+    background: none;
+    border: 5px solid white;
+    color: white;
+    margin-top: 50px;
+}
+
+
+.san{
+    position: absolute;
+    top: 1270px;
+    left: 200px;
+}
+
+
+.kill{
+    position: absolute;
+    top: 2000px;
+    left: 200px;
+}
+
+
+.kil{
+    position: absolute;
+    top: 2740px;
+    left: 200px;
+}
+
+
+.lop{
+    position: absolute;
+    top: 3470px;
+    left: 200px;
+    width: 400px;
+}
+
+
+.qor{
+    position: absolute;
+    top: 4310px;
+    left: 200px;
+    width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
